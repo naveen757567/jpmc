@@ -1,5 +1,5 @@
 # Subarray Division
-### Program to divide a list into 3 parts so that difference between sum of each group is minimum
+### Program to divide a list into 3 parts such that difference between the sum of each group is minimum
 **Usage:** java -jar exercise-0.1.jar <list of integers>  
 **Sample:** java -jar exercise-0.1.jar 7 1 2 5 8 4 3  
 
